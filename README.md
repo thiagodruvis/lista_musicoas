@@ -1,2 +1,2 @@
-# lista_musicoas
+# lista_musicos
 Exercício da Sala Invertida 
